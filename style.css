@@ -1,0 +1,8 @@
+.container{
+    /* need to start using vh and viewport width units */
+    height:100vh; 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size:40px;
+}
